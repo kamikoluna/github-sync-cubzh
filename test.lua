@@ -1,0 +1,1 @@
+local testidk = "String Loaded"
